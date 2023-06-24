@@ -1,0 +1,15 @@
+{
+	"name": "react-exercise-nested-routes",
+	"course": "Frontend Web Development with React",
+	"title": "Exercise - Nested Routes",
+	"order": 999,
+	"topics": [
+		"React Router DOM"
+	],
+	"image": "react-js",
+	"command": "npm run test",
+	"totalTestCase": 7,
+	"metadata": {
+		"type": "exercise"
+	}
+}
